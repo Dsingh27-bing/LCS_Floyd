@@ -1,0 +1,12 @@
+Compiler - g++
+Language - C++
+How to execute :
+
+for LCS program
+
+make
+./singh_dimple_pa3_lcs ABBBCDETG CBACDEBB
+
+
+for floyd program
+./singh_dimple_pa3_floyd
